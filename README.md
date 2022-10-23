@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [vraj79.github.io](vraj79.github.io)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,ChakraUI,NodeJS,ExpressJS,MongoDB**
+- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,ChakraUI,NodeJS,ExpressJS,MongoDB,Redux**
 
 - 📫 How to reach me **vishal.kumar4856@gmail.com**
 
