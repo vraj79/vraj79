@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **vishal.raj8546@gmail.com||vishal.kumar4856@gmail.com**
 
-- 📄 Resume Link [[https://drive.google.com/file/d/1xrNoCdhv70dgVUx_RSeRdYI5iPVa3Etv/view?usp=sharing](https://drive.google.com/file/d/1xrNoCdhv70dgVUx_RSeRdYI5iPVa3Etv/view?usp=sharing)](https://drive.google.com/file/d/1WkL8t-Zq-BKGhLzwzgp0_Z9F6NeeT1ph/view?usp=share_link)
-
+- 📄 Resume Link https://drive.google.com/file/d/1WkL8t-Zq-BKGhLzwzgp0_Z9F6NeeT1ph/view?usp=share_link
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-r-4153b7133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-r-4153b7133/" height="30" width="40" /></a>
