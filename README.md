@@ -32,5 +32,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj79&" alt="vraj79" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj79&show_icons=true&locale=en&layout=compact" alt="vraj79" /></p>
-
-[![Vraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=vraj79&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
