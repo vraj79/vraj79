@@ -5,17 +5,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj79" alt="vraj79" /></a> </p>
 
-<!-- - 🔭 Individual Project : [Codecov-The Codecoverage Solution](https://github.com/vraj79/disgusting-grass-3237) -->
-
-<!-- - 👯 Collaborative Project : [Booking.com](https://github.com/shivshankar0965/dusty-jewel-3645) -->
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://vraj79.github.io/)
-
 - 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,Redux,ChakraUI,NodeJS,ExpressJS,MongoDB**
 
-- 📫 How to reach me **vishal.raj8546@gmail.com||vishal.kumar4856@gmail.com**
-
-- 📄 [My Resume](https://drive.google.com/file/d/1WkL8t-Zq-BKGhLzwzgp0_Z9F6NeeT1ph/view?usp=share_link)
+- 📫 How to reach me **vraj79034@gmail.com**
+- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-r-4153b7133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-r-4153b7133/" height="30" width="40" /></a>
